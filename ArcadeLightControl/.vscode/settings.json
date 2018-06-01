@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/paulhayes/.platformio/penv/bin:/Users/paulhayes/.platformio/penv:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/texbin:/usr/local/share/dotnet:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS:~/bin:/Users/paulhayes/adt-bundle-mac-x86_64/sdk/tools:/Users/paulhayes/adt-bundle-mac-x86_64/sdk/platform-tools:/Applications/TEE-CLC-10.0.0:/usr/textbin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
